@@ -1,6 +1,6 @@
-# OCHBannerView
+### OCHBannerView
 
-### dataModel
+##### dataModel
 
 ```
 struct OCHBannerViewData {
@@ -14,8 +14,8 @@ struct OCHBannerViewData {
 }
 ```
 
-# Used!
-### init(width: CGFloat, height: CGFloat, dataSource: [OCHBannerViewData], callback: @escaping callbackBlock)
+### used
+##### init(width: CGFloat, height: CGFloat, dataSource: [OCHBannerViewData], callback: @escaping callbackBlock)
 
 ```
 let data = [OCHBannerViewData(url: "image01", link: "https://www.baidu.com"),
